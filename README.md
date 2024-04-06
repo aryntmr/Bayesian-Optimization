@@ -1,4 +1,4 @@
-# Project: Bayesian Optimization for Neural Network Architecture
+# Bayesian Optimization for Neural Network Architecture
 
 ## Overview
 
@@ -21,7 +21,7 @@ This project compares the performance of Bayesian Optimization and Grid Search f
 
 ## Dataset
 
-The Sign Language Digit dataset was used for training and evaluation. This dataset contains images of hand gestures representing digits from 0 to 9 in sign language. Dataset can be found here.
+The Sign Language Digit dataset was used for training and evaluation. This dataset contains images of hand gestures representing digits from 0 to 9 in sign language. Dataset can be found at: https://drive.google.com/file/d/1ZnZYPKxPIe68OrL6LP_gaBMlzh9n38ge/view?usp=sharing.
 
 ## Files
 
