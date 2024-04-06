@@ -21,23 +21,21 @@ This project compares the performance of Bayesian Optimization and Grid Search f
 
 ## Dataset
 
-The Sign Language Digit dataset was used for training and evaluation. This dataset contains images of hand gestures representing digits from 0 to 9 in sign language.
+The Sign Language Digit dataset was used for training and evaluation. This dataset contains images of hand gestures representing digits from 0 to 9 in sign language. Dataset can be found here.
 
 ## Files
 
-- `SRGAN.py`: Implementation of the SRGAN (Super-Resolution GAN) model for Single Image Super Resolution.
-- `Bayesian_Optimization.ipynb`: Jupyter Notebook containing the implementation of Bayesian Optimization.
-- `Grid_Search.ipynb`: Jupyter Notebook containing the implementation of Grid Search.
+- `Bayesian_Optimization.ipynb`: Jupyter Notebook containing the implementation of Bayesian Optimization and Grid Search.
 
 ## Usage
 
 1. Clone the repository.
 2. Ensure the necessary dependencies are installed.
-3. Run the provided Jupyter Notebooks (`Bayesian_Optimization.ipynb` and `Grid_Search.ipynb`) to execute Bayesian Optimization and Grid Search, respectively.
+3. Run the provided Jupyter Notebooks (`Bayesian_Optimization.ipynb`) to execute Bayesian Optimization and Grid Search.
 
 ## References
 
-- Insert references to relevant papers or resources here.
+- https://www.cmi.ac.in/~madhavan/courses/aml2021/
 
 ## License
 
