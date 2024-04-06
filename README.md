@@ -10,14 +10,14 @@ This project compares the performance of Bayesian Optimization and Grid Search f
 
 **Models Implemented:**
 - ResNet18
-- CNN-based network
 
 **Evaluation Metrics:**
 - Performance evaluated based on accuracy and computational efficiency.
 
 **Key Contributions:**
 - Demonstrated the effectiveness of Bayesian Optimization in finding optimal hyperparameters with reduced computational time.
-- Highlighted the limitations of traditional grid search methods.
+- Highlighted the limitations of traditional grid search methods, which are taking almost infinite durations of time.
+- For this project we searched through 10-500 number of nodes for four hidden layers and two activation function, run for 25 epochs. The time taken by Bayesian opt was 28 mins on average (tested 7 times) whereas the time taken by Grid Search was 65 hours.
 
 ## Dataset
 
